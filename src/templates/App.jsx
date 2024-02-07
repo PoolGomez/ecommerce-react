@@ -6,6 +6,9 @@ const App = () => {
   return (
     <div>
         <MainHeader />
+        <div className='pt-16 max-w-256 m-auto'>
+
+        </div>
         <Outlet />
     </div>
   )
